@@ -1,0 +1,2 @@
+# DSC30 Assigments and Projects
+A collection of my completed assignments from the course DSC30. This course was an intro to java and data structures, many of the homeworks wove data structures into practical applications such as utilizing stacks and queues to create a basic text editor. We were also required to develop our own tests for our solutions which helped familiarize myself  with jUnit tests and common SWE practices. More information about the course can be found here: https://catalog.ucsd.edu/courses/DSC.html

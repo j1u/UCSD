@@ -1,0 +1,28 @@
+P.J. Dozier,171.2,22.0%,1.00
+Tyler Cook,19.2,10.9%,0.63
+Noah Vonleh,13.6,10.8%,0.57
+Jerami Grant,219.2,19.0%,0.75
+Paul Millsap,156.6,18.2%,0.84
+Monte Morris,244.4,18.9%,0.77
+Paul Millsap,156.6,18.2%,0.84
+Bol Bol,81.8,20.3%,1.02
+Nikola Jokic,225.8,26.4%,1.33
+Jerami Grant,219.2,19.0%,0.75
+Tyler Cook,19.2,10.9%,0.63
+Mason Plumlee,164.4,16.5%,0.97
+Monte Morris,244.4,18.9%,0.77
+Michael Porter Jr.,241.7,23.4%,1.12
+Nikola Jokic,225.8,26.4%,1.33
+Keita Bates-Diop,79.2,17.5%,0.76
+Jamal Murray,99.3,24.6%,1.23
+Michael Porter Jr.,241.7,23.4%,1.12
+Keita Bates-Diop,79.2,17.5%,0.76
+Troy Daniels,70.3,16.1%,0.60
+Jamal Murray,99.3,24.6%,1.23
+Torrey Craig,208.4,15.2%,0.69
+Mason Plumlee,164.4,16.5%,0.97
+Torrey Craig,208.4,15.2%,0.69
+Bol Bol,81.8,20.3%,1.02
+Troy Daniels,70.3,16.1%,0.60
+P.J. Dozier,171.2,22.0%,1.00
+Noah Vonleh,13.6,10.8%,0.57
